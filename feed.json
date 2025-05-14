@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AI Playground",
+    "description": "",
+    "home_page_url": "https://ai-osint.github.io",
+    "feed_url": "https://ai-osint.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Debussy"
+    },
+    "items": [
+        {
+            "id": "https://ai-osint.github.io/test.html",
+            "url": "https://ai-osint.github.io/test.html",
+            "title": "Test",
+            "summary": "This will be the one and only post...",
+            "content_html": "\n  <p>\n    This will be the one and only post...\n  </p>",
+            "author": {
+                "name": "Debussy"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-14T22:07:10+01:00",
+            "date_modified": "2025-05-14T22:07:18+01:00"
+        }
+    ]
+}
